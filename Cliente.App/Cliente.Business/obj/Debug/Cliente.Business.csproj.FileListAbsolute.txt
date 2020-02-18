@@ -34,3 +34,9 @@ C:\Users\a770504\source\repos\Cliente.App\Cliente.Business\obj\Debug\Cliente.Bus
 C:\Users\a770504\source\repos\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.csproj.CopyComplete
 C:\Users\a770504\source\repos\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.dll
 C:\Users\a770504\source\repos\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.pdb
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Library\Cliente.Business.dll
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Library\Cliente.Business.pdb
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.csprojAssemblyReference.cache
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.csproj.CopyComplete
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.dll
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.Business\obj\Debug\Cliente.Business.pdb

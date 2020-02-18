@@ -16,6 +16,10 @@ namespace Cliente.Business.Mapper
             return new MapperConfiguration(configuration => 
             {
                 configuration.CreateMap<DataAccess.Entity.Estado, DTO.Clientes.Estado>();
+                configuration.CreateMap<DTO.Clientes.Cidade, DataAccess.Entity.Cidade>();
+                configuration.CreateMap<DataAccess.Entity.Cidade, DTO.Clientes.Cidade>();
+                configuration.CreateMap<DTO.Clientes.Cliente, DataAccess.Entity.Cliente>();
+                configuration.CreateMap<DataAccess.Entity.Cliente, DTO.Clientes.Cliente>();
             }).CreateMapper();
         }
     }

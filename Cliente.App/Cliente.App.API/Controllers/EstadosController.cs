@@ -12,15 +12,26 @@ namespace Cliente.App.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EstadoController : ControllerBase
+    public class EstadosController : ControllerBase
     {
         [HttpGet]
         [ResponseType(typeof(IList<DTO.Clientes.Estado>))]
         public IActionResult GetEstados()
         {
-            var bs = new Business.EstadoBusiness();
-            
-            return Ok(bs.GetEstados());
+            try
+            {
+                var bs = new Business.EstadoBusiness();
+                var lista = bs.GetEstados();
+
+                if (lista.Count == 0)
+                    return NoContent();
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Erro ao consultar os estados: '{ex.Message}'");
+            }
         }
     }
 }

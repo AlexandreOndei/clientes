@@ -52,8 +52,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\ClienteBusiness.cs" />
     <Compile Include="Business\EstadoBusiness.cs" />
-    <Compile Include="Business\MunicipioBusiness.cs" />
+    <Compile Include="Business\CidadeBusiness.cs" />
+    <Compile Include="Exceptions\ValidationException.cs" />
     <Compile Include="Mapper\Mappings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

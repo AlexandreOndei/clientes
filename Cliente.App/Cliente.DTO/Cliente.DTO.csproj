@@ -41,9 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clientes\Cliente.cs" />
     <Compile Include="Clientes\ClienteViewModel.cs" />
     <Compile Include="Clientes\Estado.cs" />
-    <Compile Include="Clientes\Municipio.cs" />
+    <Compile Include="Clientes\Cidade.cs" />
     <Compile Include="Municipios\MesoRegiao.cs" />
     <Compile Include="Municipios\MicroRegiao.cs" />
     <Compile Include="Municipios\Municipio.cs" />

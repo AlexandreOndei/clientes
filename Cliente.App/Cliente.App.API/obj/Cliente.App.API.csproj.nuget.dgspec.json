@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a770504\\source\\repos\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj": {}
+    "C:\\Users\\a770504\\Source\\Repos\\clientes\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a770504\\source\\repos\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj": {
+    "C:\\Users\\a770504\\Source\\Repos\\clientes\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a770504\\source\\repos\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj",
+        "projectUniqueName": "C:\\Users\\a770504\\Source\\Repos\\clientes\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj",
         "projectName": "Cliente.App.API",
-        "projectPath": "C:\\Users\\a770504\\source\\repos\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj",
+        "projectPath": "C:\\Users\\a770504\\Source\\Repos\\clientes\\Cliente.App\\Cliente.App.API\\Cliente.App.API.csproj",
         "packagesPath": "C:\\Users\\a770504\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a770504\\source\\repos\\Cliente.App\\Cliente.App.API\\obj\\",
+        "outputPath": "C:\\Users\\a770504\\Source\\Repos\\clientes\\Cliente.App\\Cliente.App.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a770504\\AppData\\Roaming\\NuGet\\NuGet.Config",

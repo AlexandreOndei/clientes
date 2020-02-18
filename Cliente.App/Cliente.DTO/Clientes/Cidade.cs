@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cliente.DataAccess.Entity
+namespace Cliente.DTO.Clientes
 {
-    public class Municipio : Base
+    public class Cidade
     {
+        public int Id { get; set; }
         public string Nome { get; set; }
         public string Sigla_Estado { get; set; }
     }
