@@ -1,0 +1,4 @@
+C:\Users\a770504\source\repos\Cliente.App\Library\Cliente.DTO.dll
+C:\Users\a770504\source\repos\Cliente.App\Library\Cliente.DTO.pdb
+C:\Users\a770504\source\repos\Cliente.App\Cliente.DTO\obj\Debug\Cliente.DTO.dll
+C:\Users\a770504\source\repos\Cliente.App\Cliente.DTO\obj\Debug\Cliente.DTO.pdb
