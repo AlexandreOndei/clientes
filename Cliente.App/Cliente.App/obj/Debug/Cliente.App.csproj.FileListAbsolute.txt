@@ -131,6 +131,7 @@ C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\roslyn\vbc.rs
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\roslyn\VBCSCompiler.exe
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\Antlr3.Runtime.dll
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\Cliente.DTO.dll
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\Newtonsoft.Json.dll
@@ -143,6 +144,7 @@ C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\System.Web.We
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\System.Web.WebPages.dll
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\System.Web.WebPages.Razor.dll
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\WebGrease.dll
+C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\Cliente.DTO.pdb
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\RestSharp.xml
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\System.Web.Helpers.xml
 C:\Users\a770504\Source\Repos\clientes\Cliente.App\Cliente.App\bin\System.Web.Mvc.xml

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Cliente.App.Utility;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -20,11 +21,10 @@ namespace Cliente.App.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult ListaClientes()
         {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            var lista = Requests.GetClientes();
+            return PartialView("_ListClientes", lista);
         }
     }
 }
