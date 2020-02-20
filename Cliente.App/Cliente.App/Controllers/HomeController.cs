@@ -21,9 +21,9 @@ namespace Cliente.App.Controllers
             return View();
         }
 
-        public ActionResult ListaClientes()
+        public ActionResult ListaClientes(string filtro)
         {
-            var lista = Requests.GetClientes();
+            var lista = APIRequests.GetClientes(filtro);
             return PartialView("_ListClientes", lista);
         }
     }
